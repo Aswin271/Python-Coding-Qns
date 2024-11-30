@@ -14,7 +14,6 @@ def is_happy_number(n):
     
     return True
 
-# Example usage:
 num = int(input("Enter a number: "))
 if is_happy_number(num):
     print(f"{num} is a happy number!")
